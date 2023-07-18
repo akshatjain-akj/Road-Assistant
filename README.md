@@ -29,12 +29,3 @@ RoadSide Assistant helps you to find nearest Mechanics, Petrol Pump on ONE CLICK
 
 <img src='./image/roadside_service.png'>
 
-### Built With
-* Bracket 
-* Git
-* Browser
-
-### Authors
-* Vishal Mane
-* Jenis Lawrence
-* Neil Gonsalvies
